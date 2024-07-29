@@ -35,9 +35,17 @@ Technologies Used:
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Frontend: HTML, CSS, JavaScript, EJS
 Authentication: JWT
-![image](https://github.com/user-attachments/assets/0cb51623-2803-462b-b941-b23f63639c68)
-![WhatsApp Image 2024-07-30 at 00 23 14_5f4df481](https://github.com/user-attachments/assets/8b838477-679d-40f9-8e56-b7ede5271847)
 
-![WhatsApp Image 2024-07-30 at 00 23 52_08d66cad](https://github.com/use![WhatsApp Image 2024-07-30 at 00 24 21_e7ca9147](https://github.com/user-attachments/assets/7aaa127b-3972-4939-b0df-aa4384e58e87)
-r-attachments/assets/10d84ef6-ecb0-46fd-94d4-5eee3d09e140)
-![WhatsApp Image 2024-07-30 at 00 24 46_fd293a27](https://github.com/user-attachments/assets/8f1627f1-4770-4fb8-8dcc-9727296f4ef5)
+![image](https://github.com/user-attachments/assets/16a96709-f80b-41f8-b635-bd10fa7cc696)
+![image](https://github.com/user-attachments/assets/2088f19e-2cca-4fd9-a355-55e300d92a79)
+![image](https://github.com/user-attachments/assets/124381ea-6dd2-451a-9f3b-c0e75ff6fcef)
+![image](https://github.com/user-attachments/assets/3271f2b7-83ef-4f0b-88ef-7b322065dbdf)
+![image](https://github.com/user-attachments/assets/f2cc470f-2e0d-4ea9-b811-b4816a07188d)
+![image](https://github.com/user-attachments/assets/95345860-ca74-475b-8204-bd7e8d56a8f4)
+![image](https://github.com/user-attachments/assets/81f4964f-c81b-410b-b54c-aea5a8a2dad9)
+
+
+
+
+
+
