@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Our Item Management System</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+      body {
+          font-family: 'Roboto', sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: #f5f5f5;
+          display: flex;
+          flex-direction: column;
+          min-height: 100vh;
+      }
+      header {
+          background-color: #1b1e22;
+          color: white;
+          padding: 20px 0;
+          text-align: center;
+      }
+      h1 {
+          margin: 0;
+          font-weight: 400;
+      }
+      .container {
+          flex: 1;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          padding: 20px;
+      }
+      .card {
+          background-color: white;
+          border-radius: 4px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+          padding: 40px;
+          text-align: center;
+          max-width: 400px;
+      }
+      .btn {
+          display: inline-block;
+          background-color: #4285f4;
+          color: white;
+          padding: 10px 20px;
+          text-decoration: none;
+          border-radius: 4px;
+          transition: background-color 0.3s;
+          margin: 10px;
+      }
+      .btn:hover {
+          background-color: #3367d6;
+      }
+  </style>
+
+</head>
+<body>
+    <header>
+        <h1>CRUD</h1>
+    </header>
+    <div class="container">
+        <div class="card">
+            <h2>Choose an option:</h2>
+            <a href="/items" class="btn">View Items</a>
+            <a href="/auth/login" class="btn">Admin Login</a>
+        </div>
+    </div>
+</body>
+</html>
